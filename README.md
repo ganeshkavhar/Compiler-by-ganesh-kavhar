@@ -51,7 +51,7 @@ that we reach a fixed point.
 Author
 ------
 
-Rui Ueyama <rui314@gmail.com>
+ganesh kavhar <ganeshkavhar@zoho.com>
 
 
 Links for C compiler development
